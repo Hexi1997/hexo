@@ -888,5 +888,6 @@ git branch -d nav
 ## 补充知识
 * 使用source tree图形化管理git分支
 * 注意git reset --hard的使用，会**覆盖**本地未commit的代码
-
+* git submodules 子模块使用 https://zhuanlan.zhihu.com/p/97761640
+子module通过设置.gitmodules来配置
 
