@@ -6,7 +6,6 @@ tags: git
 categories: git
 cover: https://patchwiki.biligame.com/images/sssj/6/65/3mwlrbiu99t6l3vn9k709njsqt6o670.png
 ---
-{% meting "60198" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
 ## git是什么？
 
 * 分布式
