@@ -1,7 +1,7 @@
 ---
 title: vercel中报错Failed to fetch one or more git submodules
 date: 2021-05-11 23:39:19
-tags:
+tags: vercel
 ---
 
 * 博客使用hexo安装hexo-theme-butterfly的时候，使用git clone将其安装在themes路径下(大概是为了方便修改？但是不知道能不能修改呢？)。
