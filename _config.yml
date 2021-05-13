@@ -84,7 +84,7 @@ deploy:
   branch: master
 
 live2d:
-  enable: true
+  enable: false
   scriptFrom: jsdelivr # local
   pluginRootPath: live2dw/
   pluginJsPath: lib/
