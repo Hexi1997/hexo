@@ -4,7 +4,6 @@ date: 2021-05-09 23:50:17
 type: tags
 tags: [大前端,css]
 categories: css
-cover: https://patchwiki.biligame.com/images/sssj/a/ad/cxamwykc77p9kk8s0i6vbzu3kieuz3g.png
 ---
 
 ## css多种引用方式

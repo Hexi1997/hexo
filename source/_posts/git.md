@@ -4,7 +4,6 @@ date: 2021-05-09 23:11:17
 type: tags
 tags: git
 categories: git
-cover: https://patchwiki.biligame.com/images/sssj/6/65/3mwlrbiu99t6l3vn9k709njsqt6o670.png
 ---
 ## git是什么？
 

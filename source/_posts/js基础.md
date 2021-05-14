@@ -4,7 +4,6 @@ date: 2021-05-09 23:50:17
 type: tags
 tags: [大前端,js]
 categories: js
-cover: https://patchwiki.biligame.com/images/sssj/b/bc/cxokwvv9v594brmobr5tejkm2x8enu5.png
 ---
 
 # 基础总结深入

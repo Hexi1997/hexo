@@ -3,7 +3,6 @@ title: hexo使用大全
 date: 2021-05-12 20:42:55
 tags: [hexo,博客相关]
 categories: 博客相关
-cover: https://patchwiki.biligame.com/images/sssj/1/13/tilswksxlbw1rgrzebqxu2ishz7m677yi
 ---
 
 ## 一、hexo的butterfly主题支持moc3格式的l2d
