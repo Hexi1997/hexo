@@ -394,3 +394,24 @@ inject:
 
 
 
+## 二、hexo置顶文章
+
+* 使用`npm install hexo-generator-topindex --save`
+
+* 给需要置顶的文章加入top参数，如下：
+
+  
+
+  ```
+  title: 每天一个linux命令
+  date: 2017-01-23 11:41:48
+  top: 1
+  categories:
+  - 运维
+  tags:
+  - linux命令
+  ```
+
+  
+
+  

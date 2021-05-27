@@ -890,3 +890,5 @@ git branch -d nav
 * git submodules 子模块使用 https://zhuanlan.zhihu.com/p/97761640
 子module通过设置.gitmodules来配置
 
+* 使用ssh，https://juejin.cn/post/6844904071757824007，ssh的clone和push成功率更高，https方式由于DNS污染成功率很低
+
