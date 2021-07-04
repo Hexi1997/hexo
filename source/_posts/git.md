@@ -892,3 +892,10 @@ git branch -d nav
 
 * 使用ssh，https://juejin.cn/post/6844904071757824007，ssh的clone和push成功率更高，https方式由于DNS污染成功率很低
 
+## Gitlab
+
+一般是公司为了项目安全性部署在公司内网的git仓库。需要访问内网注册登录、生成ssh，其他使用与github基本一致。就是仓库不同而已。
+
+https://www.jianshu.com/p/bf7b09e234c8
+
+![img](https://gitee.com/chen_hexi/image-source/raw/master/img/20210704214806.webp)
