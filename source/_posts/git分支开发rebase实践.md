@@ -86,7 +86,6 @@ git rebase develop
 
 # rebase 的过程中如果遇到冲突，首先编辑文件解决冲突，
 # 然后git add .
-# git commit -m 'resolve conflict'
 # 最后git rebase --continue即可完成rebase
 ```
 
